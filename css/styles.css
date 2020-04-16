@@ -1,0 +1,19 @@
+
+body {
+    background-color: #ecfbfc;
+    font-family: 'Gloria Hallelujah', cursive;
+
+}
+h1,h2,h3,h4,h5,h6 {
+    color: #53DFD1;
+    font-family: 'Henny Penny';
+}
+
+hr  {
+
+    border-style: none;
+    border-top-style: dotted;
+    border-color:#9DE3F6 ;
+    border-width: 5px;
+    width: 3%;   
+}
